@@ -1,4 +1,4 @@
-![](https://github.com/isaiMercado/Digital-Systems-Class-Projects/blob/master/Lab12/LC3.gif)
+![](https://github.com/isaiMercado/Digital-Systems-Class-Projects/blob/master/Lab12/LC3.jpg)
 </br>
 </br>
 </br>
